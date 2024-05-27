@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola este es mi nuevo proyecto de GitHub Pages 👋
 
 <!--
 **JD-Madrid/JD-Madrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
